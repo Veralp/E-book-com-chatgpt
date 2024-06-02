@@ -5,7 +5,7 @@
 
 ## 📖 Sobre o Ebook
 
-O **E-book Com chatgpt** é uma ferramenta educacional projetada para oferecer um conhecimento aprofundado sobre o uso do Power BI. Destinado a profissionais e estudantes, este ebook abrange  a criação de visualizações interativas e dashboards personalizados.
+O **Ebook de Power BI: Poder BI dados em ação** é uma ferramenta educacional projetada para oferecer um conhecimento aprofundado sobre o uso do Power BI. Destinado a profissionais e estudantes, este ebook abrange  a criação de visualizações interativas de códigos e dashboards personalizados.
 
 ## 🚀 Objetivos do Ebook
 
@@ -23,7 +23,7 @@ O **E-book Com chatgpt** é uma ferramenta educacional projetada para oferecer u
 
 ## 🛠️ Ferramentas Utilizadas
 
-- **Power Power Poit** - Para criação e visualização.
+- **Power Point** - Para criação e visualização.
 - **Chatgpt** 
 - **Carbon** - Para transformação dos codigos gerados pelo chatgpt.
 
@@ -60,7 +60,7 @@ O **E-book Com chatgpt** é uma ferramenta educacional projetada para oferecer u
 
 
 
-### Capítulo 5: Conexõa e carga de Dados
+### Capítulo 5: Conexão e carga de Dados
 - Bancos de Dados Relacionais: SQL Server, MySQL, PostgreSQL, etc
 - Serviços Online: Microsoft Excel Online, Google 
 - Arquivos Locais: Excel, CSV, XML, JSON, etc.
